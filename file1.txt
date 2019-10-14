@@ -7,3 +7,10 @@ C++
 DB Library
 
 Now adding ASP, Javascript, VbScript
+
+In Trichy
+
+VC++
+C/C++
+Java
+Linux
