@@ -5,3 +5,5 @@ adding languages
 shell scripting
 C++
 DB Library
+
+Now adding ASP, Javascript, VbScript
